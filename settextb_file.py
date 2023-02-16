@@ -1,0 +1,1 @@
+settextb = 'Skanta'
