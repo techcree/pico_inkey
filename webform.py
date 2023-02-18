@@ -21,7 +21,7 @@ wlan.connect(ssid, password)
 html = """<!DOCTYPE html>
 <html>
     <head>
-        <title>Badger2040W</title>
+        <title>PicoIncey</title>
     </head>
     <body>
         <h1>Input the Text you like to display!</h1>
